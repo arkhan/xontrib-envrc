@@ -2,3 +2,7 @@
 build/
 dist/
 xonsh_direnv.egg-info/
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json
